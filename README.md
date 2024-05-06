@@ -13,7 +13,7 @@
  
  - 🌱 I’m currently exploring **Web Application Pentesting**
 
- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c7KZqVoANqSd4NJR00lqlOMskIxHlLr4/view?usp=sharing)
+ - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U9q1lmrIg5LqNf8eAcbOeRPzVKm-HWrQ/view?usp=drive_link)
 
  </div>
  
