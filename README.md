@@ -11,13 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ - 🌱 I’m currently exploring **Web Application Pentesting**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c7KZqVoANqSd4NJR00lqlOMskIxHlLr4/view?usp=sharing)
 
  </div>
  
